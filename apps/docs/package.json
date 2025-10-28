@@ -15,16 +15,16 @@
     "ui": "workspace:*"
   },
   "devDependencies": {
-    "@storybook/addon-actions": "^7.4.0",
-    "@storybook/addon-docs": "^7.4.0",
-    "@storybook/addon-essentials": "^7.4.0",
-    "@storybook/addon-links": "^7.4.0",
-    "@storybook/react": "^7.4.0",
-    "@storybook/react-vite": "^7.4.0",
+    "@storybook/addon-actions": "^9.0.0",
+    "@storybook/addon-docs": "^10.0.0",
+    "@storybook/addon-essentials": "^8.0.0",
+    "@storybook/addon-links": "^10.0.0",
+    "@storybook/react": "^10.0.0",
+    "@storybook/react-vite": "^10.0.0",
     "@vitejs/plugin-react": "^1.3.2",
     "eslint-config-custom": "workspace:*",
     "serve": "^14.0.0",
-    "storybook": "^7.4.0",
+    "storybook": "^10.0.0",
     "tsconfig": "workspace:*",
     "typescript": "^5.2.2",
     "vite": "^4.4.9"
