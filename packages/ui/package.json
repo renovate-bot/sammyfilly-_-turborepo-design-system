@@ -21,7 +21,7 @@
     "eslint-config-custom": "workspace:*",
     "react": "^18.1.0",
     "tsconfig": "workspace:*",
-    "tsup": "^7.0.0",
+    "tsup": "^8.0.0",
     "typescript": "^5.2.2"
   },
   "publishConfig": {
